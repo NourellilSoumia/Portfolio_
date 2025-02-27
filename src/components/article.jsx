@@ -118,7 +118,7 @@ export default function Article() {
     <main className="min-h-screen">
    
       <section className="imagee w-full p-16 sm:p-10 md:p-32 mb-10 ">
-        <h1 className="m-20 md:m-20 uppercase text-white font-bold text-4xl md:text-7xl ms:text-xl">
+        <h1 className="m-20 md:m-20 uppercase text-white font-bold text-4xl md:text-7xl ms:text-xl sm:m-8">
           nour-ellil soumia
         </h1>
         <h2 className="text-white text-2xl md:text-4xl -mt-8 md:-mt-14 m-10">
