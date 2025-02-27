@@ -117,7 +117,7 @@ export default function Article() {
   return (
     <main className="min-h-screen">
    
-      <section className="imagee w-full p-16  md:p-32 mb-10 ">
+      <section className="imagee w-full p-16 sm:p-10 md:p-32 mb-10 ">
         <h1 className="m-20 md:m-20 uppercase text-white font-bold text-4xl md:text-7xl ms:text-xl">
           nour-ellil soumia
         </h1>
@@ -132,7 +132,7 @@ export default function Article() {
           <img
            src={me}
             alt="Portrait du développeur"
-            className="w-32 md:w-40 h-32 md:h-40 rounded-lg object-cover shadow-lg"
+            className="w-32 md:w-40 h-40 md:h-40 rounded-lg object-cover shadow-lg"
           />
           <div className="border p-4 md:p-6 rounded-lg shadow-md bg-white flex-grow">
             <h2 className="text-2xl md:text-3xl font-semibold mb-4 flex items-center gap-2">
